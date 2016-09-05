@@ -210,6 +210,12 @@ h6 {
     font-size: 0.7em;
 }
 
+p {
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 1.2em;
+}
+
 @font-face {
     font-family: retro;
     src: url(retro.ttf);
